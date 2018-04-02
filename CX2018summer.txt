@@ -1,0 +1,11 @@
+airline:CX
+deal ends:2018 May 15
+OSA,2018 Apr 29 to 2018 May 30,HKD 7000,quota 5
+ASR,2018 Apr 29 to 2018 May 30,HKD 5990,quota 5
+MLE,2018 Apr 29 to 2018 May 15,HKD 8900,quota 5
+CTS,2018 Apr 29 to 2018 May 30,HKD 8800,quota 5
+#
+deal ends:2018 Jun 30
+OSA,2018 Apr 29 to 2018 Jul 30,HKD 7500,quota 5
+ASR,2018 Apr 29 to 2018 Jul 30,HKD 6290,quota 5
+#

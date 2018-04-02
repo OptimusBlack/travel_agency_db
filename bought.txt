@@ -1,0 +1,1 @@
+(country),(total amount) (tickets bought)
